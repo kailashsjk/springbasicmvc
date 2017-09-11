@@ -1,0 +1,10 @@
+Servlet Project:
+
+Step 1: Import the Spring MVC Project
+Step 2: Add the Java JDK 1.7.051 in windows->preferences->java->Installed JRE->add->jdk 1.7.051
+Step 3: Right click the project Spring MVC Project and set the build path for jdk.
+Step 4: Add the spring jars.
+Step 5: Add the jars in Deployment Assembly
+Step 6: Add the apache tomcat server.
+Step 7: Right click the project Spring MVC Project -> Properties -> Project Facets-> java-> 1.7 and in run time-> Apache tomcat check box enable it.
+
